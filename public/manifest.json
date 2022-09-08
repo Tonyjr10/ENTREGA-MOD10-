@@ -1,0 +1,25 @@
+{
+  "name": "Shooter Game",
+  "short_name": "Shooter",
+  "icons": [
+    {
+      "src": "assets/yoshi.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "assets/dados.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "assets/homer.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#333333",
+  "theme_color": "#6200ee"
+}
